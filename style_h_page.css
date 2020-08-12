@@ -51,6 +51,7 @@ a {
 
 a:hover {
     background-color: rgb(69, 250, 151);
+    color: white;
 }
 
 .phone {
@@ -59,6 +60,15 @@ a:hover {
     align-items: right;
     flex-basis: 300px;
     padding-top: 13px;
+}
+img{
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    float: left;
 }
 
 .container {
